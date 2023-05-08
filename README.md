@@ -1,5 +1,5 @@
 # EX No.4.2. CUT SECTION OF SOLIDS
-## DATE:
+## DATE:08.05.2023
 
 ## AIM: 
 To create the solid model from given drawing and section the solid model
@@ -42,6 +42,8 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+
+![EX 4 2 Drawing v1_page-0001](https://user-images.githubusercontent.com/118722030/236874442-e87bfb9d-6c45-4ae6-9cbc-ac5ca5168cfc.jpg)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
